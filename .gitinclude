@@ -2,3 +2,4 @@
 .oh-my-zsh/custom/themes/*
 .oh-my-zsh/custom/plugins/*
 .powconfig
+./setup.sh
