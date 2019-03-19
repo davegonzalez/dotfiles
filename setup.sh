@@ -52,9 +52,6 @@ mas install 409201541 # Pages
 mas install 1176895641 # Spark
 mas install 1333542190 # 1Password 7
 
-
-# brew cask install steam
-# brew cask install gitify
 brew cask install alfred
 brew cask install bartender
 brew cask install moom
