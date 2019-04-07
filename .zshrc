@@ -1,9 +1,14 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/.local/bin:$PATH:/usr/local/bin 
+export PATH=$HOME/.local/bin:$PATH:/usr/local/bin
 export PATH="/Applications/Postgres.app/Contents/Versions/9.6/bin:$PATH"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/gonzalezd/.oh-my-zsh"
+
+export GOPATH=$HOME/go-workspace
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
