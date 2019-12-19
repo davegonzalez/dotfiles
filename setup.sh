@@ -39,16 +39,12 @@ npm add -g pnpm
 # openssl
 brew install openssl
 
-# wget
-brew install wget
-
 mas install 554883654 # Metadatics
 mas install 425424353 # The Unarchiver
 mas install 975937182 # Fantastical 2
 mas install 412448059 # ForkLift
 mas install 668208984 # GIPHY CAPTURE
 mas install 1000397973 # Wallcat
-#mas install 409201541 # Pages
 mas install 1176895641 # Spark
 mas install 1333542190 # 1Password 7
 
@@ -64,5 +60,6 @@ brew cask install google-drive-file-stream
 brew cask install iterm2
 brew cask install visual-studio-code
 brew cask install postico
+brew cask install soulseek
 brew install heroku-toolbelt
 heroku update
